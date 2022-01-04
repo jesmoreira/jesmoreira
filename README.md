@@ -2,7 +2,7 @@
 
 * 🎓 **Estudante de Engenharia de Software**
 * 👩🏽‍💻**Caloura de Ciência da Computação no IFPA**
-* 💻 **Me aprofundando em front-end** 
+* 💻 **Me aprofundando em back-end** 
 * 📚 **Estudando Python e C#**
 <div>
   <a href="https://github.com/jesmoreira">
