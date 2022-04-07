@@ -1,5 +1,5 @@
 ## Oi eu sou a Jéssica Moreira  
-*💻**Estudante de Ciência da Computação no IFPA**
+* 💻 **Estudante de Ciência da Computação no IFPA**
 * 💻 **Me aprofundando em Front-End** 
 * 📚 **Estudando Python e C#**
 <div>
