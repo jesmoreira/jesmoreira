@@ -3,7 +3,7 @@
 * 🎓 **Estudante de Ciência da Computação no IFPA**
 * 🔒 **Analista de Segurança com 2 anos de experiência focada em AppSec**
 * 💻 **5 anos de experiência como Desenvolvedora, o que me dá uma base sólida para a segurança de código.**
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5157582" style='border:none;'></iframe>
 ---
 
 ### Habilidades e Ferramentas em Segurança 🛡️
