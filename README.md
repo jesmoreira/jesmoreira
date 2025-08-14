@@ -37,7 +37,7 @@ Nos últimos dois anos, direcionei minha carreira para a segurança ofensiva, bu
 <br>
 
 <div align="center">
-  <img src="https://tryhackme.com/badge/5157582" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bunnyboo.png" alt="Your Image Badge" />
 </div>
 
 ---
