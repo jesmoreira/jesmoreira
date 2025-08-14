@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h1>Olá, sou a Jéssica Moreira! 👋</h1>
+  <h1>Olá, sou a Jéssica Moreira! </h1>
 </div>
 
 <div align="center">
