@@ -36,8 +36,6 @@ Nos últimos dois anos, direcionei minha carreira para a segurança ofensiva, bu
 
 <br>
 
-### Certificação e Progresso 🏆
-
 <div align="center">
   <img src="https://tryhackme.com/badge/5157582" alt="TryHackMe Badge" />
 </div>
