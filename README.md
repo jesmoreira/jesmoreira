@@ -16,7 +16,7 @@
 
 ---
 
-### Sobre Mim 👩‍💻
+### Sobre Mim 
 
 Sou estudante de Ciência da Computação no IFPA e atuo como Analista de Segurança, com foco em Application Security (AppSec) e Pentesting. Minha jornada de 5 anos como desenvolvedora me proporcionou uma compreensão profunda do ciclo de vida do desenvolvimento de software (SDLC), permitindo que eu identifique vulnerabilidades com uma perspectiva única e desenvolva soluções de segurança mais eficazes.
 
